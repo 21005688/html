@@ -910,12 +910,12 @@ contact_us.html
 </html>
 ```
 OUTPUT:
-```
+
 ![image](https://github.com/21005688/html/assets/94747031/a408bf4e-263a-42a8-a386-fc2e41b1e295)
 ![image](https://github.com/21005688/html/assets/94747031/0c26501f-2169-4ae0-91af-fe4947db96f2)
 ![image](https://github.com/21005688/html/assets/94747031/5cb4b976-4695-4f49-b9c7-8663db2269dc)
 ![image](https://github.com/21005688/html/assets/94747031/2ad17983-7e0c-4b12-95ac-73b0d823d424)
 
-```
+
 RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
